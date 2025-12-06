@@ -44,7 +44,7 @@ This repository includes:
 - 📘 **Project Presentation (PPT)** — Slide deck summarizing project for demonstration or defense  
 - 🧪 **Code / Notebook** — Actual ML code for data preprocessing, training, evaluation, and inference  
 
-*(All files are stored in the repo — see Folder Structure below)*
+
 
 ---
 
@@ -83,7 +83,7 @@ Depending on your implementation, you might use one or more of:
 - Cross-validation, hyperparameter tuning (GridSearch / RandomSearch)  
 - Data augmentation or balancing (if dataset imbalanced)  
 
-> 💡 *Ensure to mention in report which model gave best performance, and why you selected it over others.*
+
 
 ---
 
@@ -99,11 +99,53 @@ Here’s a sample performance metrics table (replace values with your actual res
 | **F1-Score**      | 96.1%  |
 | **AUC / ROC**     | 98.3%  |
 
-*(Update the above with your real numbers from the “Results File”.)*
+
 
 > 📌 Also include confusion matrix, classification report, and example wafer images (defective / non-defective) in project report or supplementary results.
 
 ---
 
 ## 🗂 Folder Structure
+```
+Semiconductor-Wafer-Defect-Detection-using-Machine-Learning/
+│
+├── Documentation/
+│ ├── Project_Report.pdf
+│ ├── Research_Paper.pdf
+│ ├── Project_Presentation.pptx
+│ └── Results_File.xlsx / .csv
+│
+├── Code/
+│ └── data_preprocessing_and_training.ipynb # or .py
+│
+├── Data/ # (if dataset or images included)
+│ └── raw_images/ or cleaned_data/
+│
+├── README.md
+```
 
+```
+## 📥 How to Run / Reproduce
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Rishikesh23a/Semiconductor-Wafer-Defect-Detection-using-Machine-Learning-Major-Project.git
+   cd Semiconductor-Wafer-Defect-Detection-using-Machine-Learning-Major-Project
+Install required dependencies (example)
+
+bash
+Copy code
+pip install -r requirements.txt
+(Add a requirements.txt if not already — list packages like scikit-learn, pandas, numpy, matplotlib, etc.)
+
+Run the notebook / script for preprocessing & model training
+
+bash
+Copy code
+python Code/data_preprocessing_and_training.py
+or open the Jupyter notebook
+
+Check results / evaluation outputs (in Documentation/Results_File)
+
+View the project report or research paper for detailed analysis
+```
