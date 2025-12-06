@@ -149,3 +149,47 @@ Check results / evaluation outputs (in Documentation/Results_File)
 
 View the project report or research paper for detailed analysis
 ```
+🔮 Future Work & Improvements
+
+• Use more advanced Deep Learning / CNN on wafer image data
+
+• Incorporate more types of defects and classification categories
+
+• Use data augmentation to increase data volume and variety
+
+• Build a web-based or GUI tool for easier defect detection (upload wafer image → get result)
+
+• Deploy model as API or integrate into production QA pipeline
+```
+📝 References & Citations
+
+[1] M. Jariya, P. Kumar, R. Devi and B. Singh, "Silicon wafer defect pattern detection using machine learning," 2023 International Conference on Emerging Trends in Electronics and Communication (ETEC), pp. 45-50, 2023. 
+
+[2] R. Bhardwaj, A. Kumar, S. Gupta and P. Sharma, "Semiconductor Wafer Defect Detection using Deep Learning," PriMera Scientific Engineering, vol. 4, no. 1, pp. 3–13, 2024. 
+
+[3] J.-C. Chien, M.-T. Wu and J.-D. Lee, "Inspection and Classification of Semiconductor Wafer Surface Defects Using CNN Deep Learning Networks," IEEE Access, vol. 8, pp. 120000–120010, 2020. 
+
+[4]  N. G. Shankar and Z. W. Zhong, "Semiconductor Defect Detection by Hybrid Classical–Quantum Deep Learning," Applied Sciences, vol. 12, no. 21, pp. 10834, 2022. 
+
+[5] Y. Guo, H. Li and X. Chen, "Attention-based CNN for Wafer Map Defect Pattern Classification," IEEE Transactions on Semiconductor Manufacturing, vol. 34, no. 2, pp. 230–240, May 2021. 
+
+[6] J. Song, Y. Li and Q. Wang, "Ensemble Convolutional Neural Networks for Wafer Defect Detection," Journal of Intelligent Manufacturing, vol. 32, no. 5, pp. 1335–1347, 2021. 
+
+[7] Y. Ding, L. Zhang and K. Liu, "Wafer Defect Classification Using Transfer Learning with ResNet and VGG," Proceedings of the 2020 IEEE International Conference on Image Processing (ICIP), pp. 41524156, 2020. 
+
+[8] C. Li, F. Zhao and M. Xu, "GAN-based Data Augmentation for Wafer Defect Detection," Pattern Recognition Letters, vol. 150, pp. 20–27, 2021. 
+
+[9] J. Park and H. Kim, "Texture Feature-Based Wafer Defect Detection Using Support Vector Machines," Microelectronics Reliability, vol. 99, pp. 113–121, 2019. 
+
+[10] Z. Zhong and L. Wang, "Unsupervised Wafer Defect Detection Using Autoencoders," IEEE Transactions on Semiconductor Manufacturing, vol. 33, no. 4, pp. 602–610, Nov. 2020. 
+
+[11] X. Xu, D. Li and K. Lee, "CNN-LSTM Hybrid Networks for Wafer Map Defect Pattern Recognition," IEEE Transactions on Industrial Informatics, vol. 17, no. 12, pp. 8800–8809, Dec. 2021. 
+
+[12] Y. Chen, W. Zhang and H. Zhou, "Lightweight CNN for Real-Time Semiconductor Wafer Inspection," IEEE Access, vol. 9, pp. 145233145242, 2021. 
+
+[13] H. Zhang, J. Fang and P. Luo, "Wafer Defect Detection Based on Vision Transformers," Proceedings of the 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), pp. 120–128, 2022. 
+
+[14] N. Patel, S. Mehta and R. Singh, "Comparative Study of CNN, ResNet, and Inception Models for Wafer Defect Detection," 2021 International Conference on Computer Vision and Image Analysis Applications (ICCVIA), pp. 101–106, 2021. 
+
+[15] X. Xu and S. Lee, "Multi-Modal Wafer Defect Inspection Using Image and Sensor Fusion," IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1–10, 2022. 
+```
