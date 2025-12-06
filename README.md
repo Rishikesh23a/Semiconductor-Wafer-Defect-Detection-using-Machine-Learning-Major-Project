@@ -201,3 +201,25 @@ JANHAVI KAWADKAR
 VISHWANATH LAIDWAR
 (MIT Academy of Engineering, Alandi(D), Pune)
 ```
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishikesh23a/Semiconductor-Wafer-Defect-Detection-using-Machine-Learning-Major-Project/main/Screenshots/WhatsApp%20Image%202025-12-06%20at%2019.59.05_e5c6400f.jpg" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishikesh23a/Semiconductor-Wafer-Defect-Detection-using-Machine-Learning-Major-Project/main/Screenshots/WhatsApp%20Image%202025-12-06%20at%2019.59.07_4dd4249b.jpg" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishikesh23a/Semiconductor-Wafer-Defect-Detection-using-Machine-Learning-Major-Project/main/Screenshots/WhatsApp%20Image%202025-12-06%20at%2019.59.52_7cbc0115.jpg" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishikesh23a/Semiconductor-Wafer-Defect-Detection-using-Machine-Learning-Major-Project/main/Screenshots/WhatsApp%20Image%202025-12-06%20at%2020.00.20_69f9f70d.jpg" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishikesh23a/Semiconductor-Wafer-Defect-Detection-using-Machine-Learning-Major-Project/main/Screenshots/WhatsApp%20Image%202025-12-06%20at%2020.00.21_950ccd38.jpg" width="600"/>
+</p>
