@@ -193,3 +193,11 @@ View the project report or research paper for detailed analysis
 
 [15] X. Xu and S. Lee, "Multi-Modal Wafer Defect Inspection Using Image and Sensor Fusion," IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1–10, 2022. 
 ```
+```
+👤 Developer
+RUSHIKESH SABLE
+PUNIT KAWADKAR 
+JANHAVI KAWADKAR 
+VISHWANATH LAIDWAR
+(MIT Academy of Engineering, Alandi(D), Pune)
+```
